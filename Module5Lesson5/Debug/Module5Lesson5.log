@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\biahm\source\repos\module5lesson5\module5lesson5\source.cpp(192): warning C4129: 'N': unrecognized character escape sequence
+c:\users\biahm\source\repos\module5lesson5\module5lesson5\source.cpp(330): warning C4101: 'c': unreferenced local variable
+  Module5Lesson5.vcxproj -> C:\Users\biahm\source\repos\Module5Lesson5\Debug\Module5Lesson5.exe
